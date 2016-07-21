@@ -1,4 +1,16 @@
-*{
+.container-fluid{
+	padding: 0;
+}
+.navbar-brand #glogo{
+	height: 100%;
+}
+#navigation{
+	padding-left:15px;
+	padding-right: 15px;
+}
+
+
+/**{
 	margin:0px;
 	border:0px;
 	padding:0px;
@@ -37,4 +49,4 @@ nav ul li{
 }
 #bgimg1{
 	width:100%;
-}
+}*/
