@@ -2,14 +2,35 @@
 	padding: 0;
 }
 .navbar-brand #glogo{
-	height: 100%;
+	height: 40px;
 }
 #navigation{
 	padding-left:15px;
 	padding-right: 15px;
 }
-
-
+#hero .item{
+	width: 100%;
+	height: 600px;
+}
+#hero .item img{
+	width: 100%;
+	height: auto;
+}
+nav#navigation{
+	height: 70px;
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+.navbar-brand{
+	padding: 5px 5px;
+}
+img#glogo{
+	height: 150px;
+	width: auto;
+}
+#nav-links{
+	height: 70px;
+}
 /**{
 	margin:0px;
 	border:0px;
